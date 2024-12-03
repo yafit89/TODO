@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: yafit12/pyui:v1
+        image: yafit12/pyui:v1s
         ports:
         - containerPort: 5001
         volumeMounts:
