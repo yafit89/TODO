@@ -11,7 +11,7 @@ on:
 
 env:
   IMAGE_NAME: pyui
-  IMAGE_TAG: v1s
+  IMAGE_TAG: v1
   DOCKER_ACCOUNT: yafit12
 
 jobs:
