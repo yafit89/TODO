@@ -17,7 +17,7 @@ spec:
       - name: python-app
         image: yafit12/pyui:v1s
         ports:
-        - containerPort: 5001
+        - containerPort: 5000
         volumeMounts:
         - name: config-volume
           mountPath: /app/config.json
