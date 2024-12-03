@@ -11,8 +11,8 @@ on:
 
 env:
   IMAGE_NAME: pyui
-  IMAGE_TAG: v1
-  DOCKER_ACCOUNT: d4v5he
+  IMAGE_TAG: v1s
+  DOCKER_ACCOUNT: yafit12
 
 jobs:
   Build-and-Upload:
